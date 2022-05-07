@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d303e42fdcef58f4597c233d93384452, type: 3}
+  m_Name: MapPlan
+  m_EditorClassIdentifier: 
+  Type: 4
+  Sprite: {fileID: 21300000, guid: 6c3b7fecbe456e5469565a971c9d7e3a, type: 3}
+  Prefab: {fileID: 4286120907086394052, guid: 126b33b50d4efd8409101b5d20df9612, type: 3}
